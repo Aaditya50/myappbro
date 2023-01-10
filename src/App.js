@@ -1,19 +1,17 @@
-import logo from './logo.svg';
+import logo from './images/vaishnavi.jpg';
 import './App.css';
-
+import Webimage from './WebImages';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <div className="row">
+          <div className="logo">
+            <img src={logo} width="100" height="50" />
+          </div>
+      </div> */}
 
-        <a>Chan ahe na tula avadal ka ?</a>
-
-
-        <a>
-          aapan ashi pn gappa maru shakto
-
-        </a>
+      <Webimage/>
       </header>
     </div>
   );
