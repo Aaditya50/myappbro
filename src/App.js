@@ -13,14 +13,20 @@ function App() {
             <img src={logo} width="100" height="50" />
           </div>
       </div> */}
-        <div className="row">
+        {/* <div className="row"> */}
           <div className="logo">
-            <img src={d1}  />
+            <div className="container">
+               <div className="row">
+                <img src={d1} width="200" height="300" />
+               
+               
+            
+            
+              <img src={d2} width="200" height="300" />
+            </div>
+            </div>
           </div>
-          <div className="logo">
-            <img src={d2}  />
-          </div>
-      </div>
+      {/* </div> */}
       {/* <Webimage/>
       <a>Loves</a>
       <img src={pic}/> */}
