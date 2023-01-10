@@ -10,15 +10,11 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 
-        <a>Hello Dnyaneshwari</a>
+        <a>Chan ahe na tula avadal ka ?</a>
 
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+
+        <a>
+          aapan ashi pn gappa maru shakto
         </a>
       </header>
     </div>
