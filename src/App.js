@@ -1,6 +1,6 @@
-import logo from './images/vaishnavi.jpg';
 import './App.css';
 import Webimage from './WebImages';
+import pic from "./images/rasmalai.jpg";
 function App() {
   return (
     <div className="App">
@@ -13,6 +13,8 @@ function App() {
       </div> */}
 
       <Webimage/>
+      <a>Loves</a>
+      <img src={pic}/>
       </header>
     </div>
   );
