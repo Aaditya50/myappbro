@@ -5,16 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a>Hii vaishnavi here </a>
+        <a>Hii Dnyaneshwari here </a>
         {/* <div className="row">
           <div className="logo">
             <img src={logo} width="100" height="50" />
           </div>
       </div> */}
 
-      <Webimage/>
+      {/* <Webimage/>
       <a>Loves</a>
-      <img src={pic}/>
+      <img src={pic}/> */}
+
       </header>
     </div>
   );
