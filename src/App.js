@@ -17,13 +17,13 @@ function App() {
           <div className="logo">
             <div className="container">
                <div className="row">
-                {/* <img src={d1} width="200" height="300" /> */}
+                {/* <img src={d1} width="200" height="300" />
                
                
+              
             
-            
-              <img src={d2} width="200" height="300" />
-
+              <img src={d2} width="200" height="300" /> */}
+         <img src={pic} width="200" height="300"/>
               <a>Hello Ji Aaditya Here</a>
             </div>
             </div>
