@@ -22,7 +22,7 @@ function App() {
                
             
             
-              {/* <img src={d2} width="200" height="300" /> */}
+              <img src={d2} width="200" height="300" />
 
               <a>Hello Ji Aaditya Here</a>
             </div>
